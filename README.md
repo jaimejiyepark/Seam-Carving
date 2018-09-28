@@ -1,4 +1,4 @@
-# Content-Aware Image Resizing Program
+# Seam Carving Program
 # What It Is
 # How It Works
 
